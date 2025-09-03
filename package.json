@@ -1,0 +1,12 @@
+{
+  "name": "tech-evangelism-portal",
+  "version": "1.0.0",
+  "description": "Ein Portal für Tech-Evangelismus, Workshops und Ressourcen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
