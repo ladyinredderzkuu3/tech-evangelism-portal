@@ -3,6 +3,7 @@
 node_modules/
 .DS_Store
 *.log
+yarn-debug.log
 coverage/
 build/
 .env
